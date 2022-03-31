@@ -2,7 +2,7 @@
 - 👀 Introvert alert :exclamation: ...
 - 📫 Reach me at: https://twitter.com/togglebrain
 
-![I worry I'm the main character sometimes...](https://user-images.githubusercontent.com/14012589/161041802-01f09320-ea99-46c2-9af2-410afedac3a5.jpg)
+  <img src="https://user-images.githubusercontent.com/14012589/161041802-01f09320-ea99-46c2-9af2-410afedac3a5.jpg" width="300">
  ...
 
 <!---
